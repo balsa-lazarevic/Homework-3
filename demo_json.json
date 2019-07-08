@@ -1,0 +1,192 @@
+{
+    "flight_data": {
+        "outgoing": [
+            {
+                "from": {
+                    "city_name": "Belgrade",
+                    "country_code": "RS",
+                    "iata": "BEG",
+                    "name": "Belgrade Nikola Tesla",
+                    "date": "Thu Jun 13 2019",
+                    "time": "15:25",
+                    "timestamp": 1560439500,
+                    "timestamp_utc": 1560432300
+                },
+                "to": {
+                    "city_name": "Paris",
+                    "country_code": "FR",
+                    "iata": "CDG",
+                    "name": "Charles de Gaulle Airport",
+                    "date": "Thu Jun 13 2019",
+                    "time": "17:55",
+                    "timestamp": 1560448500,
+                    "timestamp_utc": 1560441300
+                },
+                "flight_number": "8633",
+                "flight_duration": "02h 30min",
+                "airline": {
+                    "name": "Air France",
+                    "iata": "AF"
+                }
+            },
+            {
+                "layover": {
+                    "location": "Paris",
+                    "duration": "01h 30min"
+                }
+            },
+
+            {
+                "from": {
+                    "city_name": "Paris",
+                    "country_code": "FR",
+                    "iata": "CDG",
+                    "name": "Charles de Gaulle Airport",
+                    "date": "Thu Jun 13 2019",
+                    "time": "19:25",
+                    "timestamp": 1560453900,
+                    "timestamp_utc": 1560446700
+                },
+                "to": {
+                    "city_name": "New York City",
+                    "country_code": "US",
+                    "iata": "JFK",
+                    "name": "John F. Kennedy International",
+                    "date": "Thu Jun 13 2019",
+                    "time": "21:50",
+                    "timestamp": 1560462600,
+                    "timestamp_utc": 1560477000
+                },
+                "flight_number": "1021",
+                "flight_duration": "08h 25min",
+                "airline": {
+                    "name": "Air France",
+                    "iata": "AF"
+                }
+            }
+        ],
+        "return": [
+            {
+                "from": {
+                    "city_name": "New York City",
+                    "country_code": "US",
+                    "iata": "JFK",
+                    "name": "John F. Kennedy International",
+                    "date": "Sun Jun 16 2019",
+                    "time": "17:45",
+                    "timestamp": 1560707100,
+                    "timestamp_utc": 1560721500
+                },
+
+                "to": {
+                    "city_name": "Rome",
+                    "country_code": "IT",
+                    "iata": "FCO",
+                    "name": "Leonardo da Vinci\u2013Fiumicino Airport",
+                    "date": "Mon Jun 17 2019",
+                    "time": "08:20",
+                    "timestamp": 1560759600,
+                    "timestamp_utc": 1560752400
+                },
+                "flight_number": "3437",
+                "flight_duration": "08h 35min",
+                "airline": {
+                    "name": "Alitalia",
+                    "iata": "AZ"
+                }
+            },
+            {
+                "layover": {
+                    "location": "Rome",
+                    "duration": "00h 50min"
+                }
+            },
+            {
+                "from": {
+                    "city_name": "Rome",
+                    "country_code": "IT",
+                    "iata": "FCO",
+                    "name": "Leonardo da Vinci\u2013Fiumicino Airport",
+                    "date": "Mon Jun 17 2019",
+                    "time": "09:10",
+                    "timestamp": 1560762600,
+                    "timestamp_utc": 1560755400
+                },
+
+
+
+
+
+
+
+
+                "to": {
+                    "city_name": "Belgrade",
+                    "country_code": "RS",
+                    "iata": "BEG",
+                    "name": "Belgrade Nikola Tesla",
+                    "date": "Mon Jun 17 2019",
+                    "time": "10:45",
+                    "timestamp": 1560768300,
+                    "timestamp_utc": 1560761100
+                },
+                "flight_number": "592",
+                "flight_duration": "01h 35min",
+                "airline": {
+                    "name": "Alitalia",
+                    "iata": "AZ"
+                }
+            }
+        ],
+        "info": {
+            "total_price": 514,
+            "passengers": 1,
+            "route": "Belgrade|New York City"
+        }
+    },
+    "email": "test@test.com",
+    "phone": "12121212121",
+    "phoneExtension": "US:+1",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "passenger_data": [
+        {
+            "name": "Test",
+            "surname": "Test",
+            "title": "mr",
+            "birthday": "10/10/1993",
+            "expiration": "10/03/2021",
+            "cardno": "1212121212",
+            "nationality": "US",
+            "document_type": "passport",
+            "document_origin": "US",
+            "bags": 0,
+            "lang": "en",
+            "final_date": 1560755400,
+            "adult_ind": 1,
+            "_type": "ADT"
+        }
+    ],
+    "bags": 0,
+    "language": "en",
+    "currency": "eur",
+    "price": "514.00",
+    "adults": 1,
+    "children": 0,
+    "infants": 0,
+    "_price_change": false,
+    "keep_alive": 1
+}
